@@ -1,0 +1,39 @@
+.container-fluid{
+	background-color: #a9a9a9;
+}
+.container-fluid .navbar-header a.navbar-brand{
+	font-size:40px ;
+	padding-left:30px;
+	color: black;
+	font-weight: 50px;
+}
+.container-fluid .navbar-header .navbar-toggle .icon-bar{
+	border:3px solid black;
+}
+.container-fluid .navbar-collapse ul.navbar-nav li a{
+	color: black;
+	font-size: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.container-fluid .navbar-collapse ul.navbar-nav li.dropdown ul.dropdown-menu li a{
+	color: red;
+}
+h2{
+	font-size: 40px;
+	font-color:black;
+	font-weight: bold;
+	padding-bottom: 10px;
+}
+section{
+	font-size: 20px;
+	background-color: #a9a9a9;
+	padding-left:20px;
+	padding-bottom:20px;
+	padding-right:20px;
+}
+h4{
+	font-size:25px;
+	font-weight: bold;
+	padding-top: 10px;
+}
